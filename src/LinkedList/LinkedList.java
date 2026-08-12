@@ -58,5 +58,8 @@ public class LinkedList {
         length++;
     }
 
+    public void removeFromBeginning() {
+
+    }
     
 }
